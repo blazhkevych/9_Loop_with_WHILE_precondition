@@ -1,6 +1,7 @@
 ﻿/*
 5. Написать программу, вычисляющую степень числа.
 */
+
 #include <iostream>
 using namespace std;
 
